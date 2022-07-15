@@ -1,12 +1,11 @@
 #include <stdio.h>
 /*project: C snack bar
-  author: Malila Nyamai
+  author: Felix Mutugi
   Compiler:c89
   License:MIT
   Date:15 july 2022
 */
 
-*/
 int menu(){
     int item;
     int quantity;
